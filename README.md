@@ -6,9 +6,9 @@
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
-# <div align="center">Gartner | Confluent Workshop repository</div>
+# <div align="center">Kenvue | Confluent Workshop repository</div>
 
-This repository contains workshop content for Gartner to be held on April 3rd, 2023. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for Kenvue to be held on April 3rd, 2023. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
@@ -23,12 +23,12 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
-| Workshop Kickoff and Introductions|  8:00 - 8:30  | Gartner & Confluent |
-| Review Gartner Use Cases |  8:30 - 9:00  | Gartner team |
+| Workshop Kickoff and Introductions|  8:00 - 8:30  | Kenvue & Confluent |
+| Review Kenvue Use Cases |  8:30 - 9:00  | Kenvue team |
 | Break |  9:00-9:15  |  |
 | Hands on Workshop Demo |  9:15 - 10:00  | Ravi Appalla/Qi Yang - Confluent |
-| Workshop Environment Setup |  10:00 - 10:15  | Confluent and Gartner Team |
-| Hands on Workshop |  10:15 - 11:30  |  Confluent and Gartner Team  |
+| Workshop Environment Setup |  10:00 - 10:15  | Confluent and Kenvue Team |
+| Hands on Workshop |  10:15 - 11:30  |  Confluent and Kenvue Team  |
 | Streaming with Confluent and Cluster Linking | 11:30 - 12:00 | Joseph Morais, Staff Partner Solutions Engineer |
 | Wrap Up and Next Steps |  12:00 - 12:15  |  Confluent Team  |
 
