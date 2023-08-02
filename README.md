@@ -26,7 +26,7 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | Workshop Kickoff and Introductions|  8:00 - 8:30  | Kenvue & Confluent |
 | Review Kenvue Use Cases |  8:30 - 9:00  | Kenvue team |
 | Break |  9:00-9:15  |  |
-| Hands on Workshop Demo |  9:15 - 10:00  | Ravi Appalla/Qi Yang - Confluent |
+| Hands on Workshop Demo |  9:15 - 10:00  | PJ - Confluent |
 | Workshop Environment Setup |  10:00 - 10:15  | Confluent and Kenvue Team |
 | Hands on Workshop |  10:15 - 11:30  |  Confluent and Kenvue Team  |
 | Streaming with Confluent and Cluster Linking | 11:30 - 12:00 | Joseph Morais, Staff Partner Solutions Engineer |
@@ -38,9 +38,9 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | --- | --- | --- |
 | Cluster Roll Out / Topology |  8:00 - 9:00  |  Dan Elliman - Confluent  |
 | Break |  9:00 - 9:15  |  |
-| Networking & Security |  9:15 - 10:00  |  Qi Yang - Confluent  |
+| Networking & Security |  9:15 - 10:00  |  PJ - Confluent  |
 | Stream Lineage and Data Governance |  10:00 - 11:00  | Vahid Fereydouny, Product Manager  |
-| Q&A and Workshop wrap-up |  11:00 - 11:30  | Eric Langan / Qi Yang - Confluent |
+| Q&A and Workshop wrap-up |  11:00 - 11:30  | Michael Schuler / PJ - Confluent |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
