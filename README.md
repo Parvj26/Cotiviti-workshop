@@ -38,8 +38,8 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | --- | --- | --- |
 | Cluster Roll Out / Topology |  8:00 - 9:00  |  Dan Elliman - Confluent  |
 | Break |  9:00 - 9:15  |  |
+| Deep Dive into the Use Cases |  9:15 - 10:00  | Kenvue Team  |
 | Networking & Security |  9:15 - 10:00  |  PJ - Confluent  |
-| Stream Lineage and Data Governance |  10:00 - 11:00  | Vahid Fereydouny, Product Manager  |
 | Q&A and Workshop wrap-up |  11:00 - 11:30  | Michael Schuler / PJ - Confluent |
 
 ## Topics Covered in the Demo and Workshop:
