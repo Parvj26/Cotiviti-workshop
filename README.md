@@ -24,7 +24,7 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
 | Workshop Kickoff and Introductions|  8:00 - 8:30  | Kenvue & Confluent |
-| Review Kenvue Use Cases |  8:30 - 9:00  | Kenvue team |
+| Kenvue Use Cases Overview and Objectives |  8:30 - 9:00  | Kenvue team |
 | Break |  9:00-9:15  |  |
 | Hands on Workshop Demo |  9:15 - 10:00  | PJ - Confluent |
 | Workshop Environment Setup |  10:00 - 10:15  | Confluent and Kenvue Team |
