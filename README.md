@@ -38,9 +38,11 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | --- | --- | --- |
 | Cluster Roll Out / Topology |  8:00 - 9:00  |  Dan Elliman - Confluent  |
 | Break |  9:00 - 9:15  |  |
-| Deep Dive into the Use Cases |  9:15 - 10:00  | Kenvue Team  |
-| Networking & Security |  9:15 - 10:00  |  PJ - Confluent  |
-| Q&A and Workshop wrap-up |  11:00 - 11:30  | Michael Schuler / PJ - Confluent |
+| Review Kenvue Priority use cases (Safety & PD RM) |  9:15 - 10:00  | Kenvue Team  |
+| Networking & Security |  10:00 - 10:45  |  PJ - Confluent  |
+| Break |  10:45 - 11:00  |  |
+| POC Success Criteria and Template |  11:00 - 11:30  | Kenvue and Michael Schuler / PJ - Confluent |
+| Q&A and Workshop wrap-up |  11:30 - 12:00  | Michael Schuler / PJ - Confluent |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
