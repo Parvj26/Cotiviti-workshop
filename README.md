@@ -29,7 +29,7 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | Hands on Workshop Demo |  9:15 - 10:00  | PJ - Confluent |
 | Workshop Environment Setup |  10:00 - 10:15  | Confluent and Kenvue Team |
 | Hands on Workshop |  10:15 - 11:30  |  Confluent and Kenvue Team  |
-| Streaming with Confluent and Cluster Linking | 11:30 - 12:00 | Joseph Morais, Staff Partner Solutions Engineer |
+| Managed Salesforce and MongoDB Connectors | 11:30 - 12:00 | PJ/TBD |
 | Wrap Up and Next Steps |  12:00 - 12:15  |  Confluent Team  |
 
 ## Workshop Agenda - Day 2:
