@@ -8,7 +8,7 @@
 
 # <div align="center">Kenvue | Confluent Workshop repository</div>
 
-This repository contains workshop content for Kenvue to be held on Aug 8th & 9th, 2023. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for Kenvue to be held on Aug 16th & 17th, 2023. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
