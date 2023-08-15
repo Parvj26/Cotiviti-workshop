@@ -28,7 +28,7 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | Workshop Environment Setup |  9:15 - 9:30  | Confluent and Kenvue Team |
 | Break |  9:30-9:45  |  |
 | Hands on Workshop |  9:45 - 10:45  |  Confluent and Kenvue Team  |
-| Managed Salesforce and MongoDB Connectors | 10:45 - 11:15 | PJ/TBD |
+| Managed Salesforce and MongoDB Connectors | 10:45 - 11:15 | PJ |
 | Kenvue Use Cases Overview and Objectives |  11:15 - 11:45  | Kenvue team |
 | Wrap Up and Next Steps |  11:45 - 12:00  |  Confluent Team  |
 
