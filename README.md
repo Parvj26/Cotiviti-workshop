@@ -6,9 +6,9 @@
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
-# <div align="center">Kenvue | Confluent Workshop repository</div>
+# <div align="center">Cotiviti | Confluent Workshop repository</div>
 
-This repository contains workshop content for Kenvue to be held on Aug 16th & 17th, 2023. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for Cotiviti to be held on Oct 13, 2023. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
@@ -19,30 +19,14 @@ We welcome you to join Confluent team in a workshop to get started with data in 
 This workshop is perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. This repository also represents a powerful leave behind so your team can get their hands on keyboards and begin building clusters themselves. 
 
 
-## Workshop Agenda - Day 1:
+## Workshop Agenda:
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
-| Workshop Kickoff and Introductions|  8:00 - 8:30  | Kenvue & Confluent |
-| Hands on Workshop Demo |  8:30 - 9:15  | PJ - Confluent |
-| Workshop Environment Setup |  9:15 - 9:30  | Confluent and Kenvue Team |
-| Break |  9:30-9:45  |  |
-| Hands on Workshop |  9:45 - 10:45  |  Confluent and Kenvue Team  |
-| Managed Salesforce and MongoDB Connectors | 10:45 - 11:15 | PJ |
-| Kenvue Use Cases Overview and Objectives |  11:15 - 11:45  | Kenvue team |
-| Wrap Up and Next Steps |  11:45 - 12:00  |  Confluent Team  |
-
-## Workshop Agenda - Day 2:
-
-| Topic | Time | Speaker |
-| --- | --- | --- |
-| Cluster Roll Out / Topology |  8:00 - 9:00  |  Dan Elliman - Confluent  |
-| Break |  9:00 - 9:15  |  |
-| Networking & Security |  9:15 - 10:00  |  PJ - Confluent  |
-| Review Kenvue Priority use cases (Safety & PD RM) |  10:00 - 10:45  | Kenvue Team  |
-| Break |  10:45 - 11:00  |  |
-| POC/ Pilot Success Criteria and Template |  11:00 - 11:30  | Kenvue and Michael Schuler / PJ - Confluent |
-| Q&A and Workshop wrap-up |  11:30 - 12:00  | Michael Schuler / PJ - Confluent |
+| Workshop Kickoff and Introductions|  1:30 - 1:35  | Cotiviti & Confluent |
+| Hands on Workshop Demo |  1:35 - 1:50  | PJ - Confluent |
+| Hands on Workshop |  1:50 - 2:20  |  Confluent and Cotiviti Team  |
+| Wrap Up and Next Steps |  2:20 - 2:30  |  Confluent Team  |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
@@ -62,14 +46,6 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 15. [Confluent Resources and Further Testing](#step-15)
 
 ***
-
-## **Prerequisites**
-<br>
-
-1. Create a Confluent Cloud Account.
-    - Please make sure that you are able to successfully login to Confluent Cloud before the workshop.
-> **Note:** You will create resources during this workshop that will incur costs. Please make sure that you monitor resource usage to stay within the credits offered for this workshop and POC evaluation. 
-
 
 ## <a name="step-1"></a>Log into Confluent Cloud
 
