@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/Kenvue-logo.png" width=50% height=50%>
+    <img src="images/Cotiviti-logo.jpeg" width=50% height=50%>
 </div>
 
 <div align="center">
